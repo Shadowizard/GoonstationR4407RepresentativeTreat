@@ -1,4 +1,4 @@
-/*
+
 obj
 	step_size = 4
 
@@ -7,7 +7,7 @@ mob
 	bound_x = 7
 	bound_width = 17
 	bound_height = 29
-*/
+
 
 world
 	fps = 100
